@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #e1e1e1;
+  background-color: #7d0efc;
   font-family: 'Muli', sans-serif;
   display: flex;
   align-items: center;
@@ -37,7 +37,7 @@ body {
   left: 0;
   text-align: center;
   width: 100%;
-  color: #555;
+  color: rgb(255, 255, 255);
   font-size: 14px;
 }
 
